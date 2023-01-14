@@ -1,4 +1,5 @@
 This is just a little file.
 
-With nothing special in it.
+With something special in it:
 
+Counting down: 3, 2, 1, Wooohoo!!!
